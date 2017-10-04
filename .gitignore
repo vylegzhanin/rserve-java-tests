@@ -1,0 +1,17 @@
+#idea config
+/.idea/workspace.xml
+/.idea/dataSources/
+/.idea/dataSources.ids
+/.idea/dataSources.local.xml
+/.idea/dataSources.xml
+
+#java modules output
+classes/
+test-classes/
+
+#idea output
+/out/
+
+#idea maven output
+target/
+
